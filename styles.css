@@ -13,6 +13,10 @@ body {
   padding: 25px;
 }
 
+@media only screen and (max-width: 600px) {
+  margin-top: 20px;
+}
+
 a {
   text-decoration: none;
   color: inherit;
