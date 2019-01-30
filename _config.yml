@@ -1,0 +1,11 @@
+title: Chloe Parks
+description: Chloe Parks is a Creative Director in Los Angeles
+url: chloeisabellaparks.com
+author: Chloe Parks
+social:
+  name: Chloe Parks
+  links:
+    - https://instagram.com/chlob
+    - https://twitter.com/officialchlob
+plugins:
+  - jekyll-seo-tag
